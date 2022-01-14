@@ -3,19 +3,19 @@ IMACFLY is a very basic flight simulator game that allows the player to drive an
 Repport https://drive.google.com/file/d/1yc6AZ0iQN4AYo1Aliq_UmVLtxiW2pRAn/view?usp=sharing
 Presentation https://www.youtube.com/watch?v=bQywq3jjh4s&ab_channel=AchrafLemghari
  ```bash
- -> cd IMACFLY
+ cd IMACFLY
  ```
  ```bash
--> mkdir build 
+mkdir build 
 ```
 ```bash
 cd build
 ```
 ```bash
--> cmake ..
+cmake ..
 ```
 ```bash
--> make
+make
 ```
-run the game ``` -> ./PROJECT/imacfly ```
-for documenttion ``` -> make html ```
+run the game ``` ./PROJECT/imacfly ```
+for documenttion ```make html ```
