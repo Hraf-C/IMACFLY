@@ -17,5 +17,5 @@ cd build
 ```bash
 -> make
 ```
-run the game ```bash -> ./PROJECT/imacfly ```
-for documenttion ```bash -> make html ```
+run the game ``` -> ./PROJECT/imacfly ```
+for documenttion ``` -> make html ```
